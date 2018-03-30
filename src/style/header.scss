@@ -1,0 +1,23 @@
+.background {
+    width: 100vw;
+    height: 550px;
+    background-color: $santaRed;
+    margin-top: -17rem;
+    padding-top: 17rem;
+    border-bottom: 1rem solid $elfGreen;
+}
+
+.letters-heading {
+    text-align: center;
+    margin: 20px;
+    padding-top: 46px;
+    color: $glitterGold;
+    font-weight: 700;
+    font-family: $santaScript;
+}
+
+.letters-subheading {
+    margin-bottom: 46px;
+    color: $winterWhite;
+    font-size: 25px;
+}
